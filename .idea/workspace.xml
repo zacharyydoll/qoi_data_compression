@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2b1f5b6-6339-4ec8-8e17-5f762a5fca66" name="Changes" comment="code until ImageToChannels" />
+    <list default="true" id="d2b1f5b6-6339-4ec8-8e17-5f762a5fca66" name="Changes" comment="init commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +70,28 @@
       <option name="project" value="LOCAL" />
       <updated>1667597960090</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="init commit">
+      <created>1695865099230</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695865099230</updated>
+    </task>
+    <task id="LOCAL-00004" summary="init commit">
+      <created>1695865215240</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695865215240</updated>
+    </task>
+    <task id="LOCAL-00005" summary="init commit">
+      <created>1695865342082</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695865342082</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,7 +107,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="code until ImageToChannels" />
-    <option name="LAST_COMMIT_MESSAGE" value="code until ImageToChannels" />
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
